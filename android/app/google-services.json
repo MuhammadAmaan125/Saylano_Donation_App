@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "777243264240",
+    "firebase_url": "https://native-hackathon-96b85-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "native-hackathon-96b85",
+    "storage_bucket": "native-hackathon-96b85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777243264240:android:435a445f84d49f3c716e35",
+        "android_client_info": {
+          "package_name": "com.devathon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp5n8ihwgxiZjjgOx0OzCuojWGcizlXfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
